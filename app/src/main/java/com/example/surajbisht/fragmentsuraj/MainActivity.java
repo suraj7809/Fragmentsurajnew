@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         et2= (EditText) findViewById(R.id.et2);
+        //commit check
     }
-
     @Override
     protected void onStart() {
         super.onStart();
